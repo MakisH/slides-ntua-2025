@@ -54,5 +54,5 @@ vvv
 
 ![](images/closing/precice2025-path.svg)
 
-<small>~50 participants - Developer and user talks - Posters - User support sessions - World Café<br/>
+<small>~50 participants - Training - Talks - Posters - User support sessions - World Café<br/>
 Abstract submission till May 31 - Registration till July 15 - See `precice.org`</small>
