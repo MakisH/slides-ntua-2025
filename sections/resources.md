@@ -10,11 +10,10 @@ vvv
 
 ## Everything is open and user-centered
 
-- Developed in the open: `github.com/precice`
-- Documentation and many examples in one place
+- Developed in the open: [github.com/precice](https://github.com/precice)
+- Extensive documentation
 - (Diamond) open-access publications
-- Public recordings of workshop talks
-- Open collaboration, issues, projects, feedback, ...
+- Public recordings talks
 
 Extra effort to maintain and update
 
@@ -22,9 +21,4 @@ vvv
 
 ## Further channels
 
-- Support forum: https://precice.discourse.group/
-- YouTube: https://www.youtube.com/c/preCICECoupling
-- Mastodon: https://fosstodon.org/@precice
-- Bluesky: https://bsky.app/profile/precice.org
-- LinkedIn: https://www.linkedin.com/groups/9073912/
-- RG: https://www.researchgate.net/project/preCICE
+![Resources](images/resources/resources.svg)
