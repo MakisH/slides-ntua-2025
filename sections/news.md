@@ -31,14 +31,9 @@ vvv
 
 ## Current research
 
-- Ecosystem standards and testing, geometric multi-scale
-- Time interpolation (B. Rodenberg)
-  - 💡See related talk by Niklas Kotarsky in MS205
-- Dynamic coupling meshes (F. Simonis)
-- More efficient data mapping (PoU, GPUs) (D. Schneider)
-- Adaptive macro-micro simulations (I. Desai)
-- Porous media macro-micro simulations (J. Chen)
-- Musculoskeletal multi-scale simulations (C. Homs Pons)
+![Overview of research](images/research.svg)  
+
+<small>💡Time interpolation: See related talk by Niklas Kotarsky in MS205</small>
 
 vvv
 
