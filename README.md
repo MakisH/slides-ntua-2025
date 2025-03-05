@@ -23,13 +23,7 @@ and go to [localhost:8000](http://localhost:8000/) to see the slides.
 
 ## Convert to PDF
 
-See section "[Export to PDF](https://revealjs.com/pdf-export/)" in the reveal.js documentation.
-
-[Decktape](https://github.com/astefanutti/decktape) does a marvelous job converting this presentation to PDF. Get the Docker image (see Decktape README) and run (for localhost):
-
-```bash
-docker run --rm -t --net=host -v "$(pwd)":/slides astefanutti/decktape generic --key=" " -p 2000 -s 1920x1440 http://localhost:8000 slides-archive.pdf
-```
+See section "[Export to PDF](https://revealjs.com/pdf-export/)" in the reveal.js documentation: go to [localhost:8000/?print-pdf](http://localhost:8000/?print-pdf) and print to PDF.
 
 ## License & more
 
