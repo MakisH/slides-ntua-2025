@@ -13,7 +13,7 @@ vvv
 - Developed in the open: [github.com/precice](https://github.com/precice)
 - Extensive documentation
 - (Diamond) open-access publications
-- Public recordings talks
+- Public recordings of talks
 
 Extra effort to maintain and update
 
