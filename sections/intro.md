@@ -2,9 +2,6 @@
 
 <img data-src="images/intro/precice-overview-two.svg" style="border:none; box-shadow:none; max-width:80%;">
 
-Notes:
-- We will do an "adpated code", no adapter
-
 vvv
 
 <img data-src="images/intro/precice-overview-all.svg" style="border:none; box-shadow:none; max-width:80%;">
@@ -17,31 +14,31 @@ vvv
 
 ## Where preCICE helps
 
-![](images/intro/features-1.svg) 
+![](images/intro/features-1.svg)
 
 vvv
 
 ## Where preCICE helps
 
-![](images/intro/features-2.svg) 
+![](images/intro/features-2.svg)
 
 vvv
 
 ## Where preCICE helps
 
-![](images/intro/features-3.svg) 
+![](images/intro/features-3.svg)
 
 vvv
 
 ## Where preCICE helps
 
-![](images/intro/features-all.svg) 
+![](images/intro/features-all.svg)
 
 vvv
 
 ## Where preCICE helps
 
-![](images/intro/features-all-doi.svg) 
+![](images/intro/features-all-doi.svg)
 
 vvv
 
@@ -114,4 +111,3 @@ vvv
 ![](images/users/gymprecice.png)
 
 Active flow control with ML, Heriot-Watt University (UK)
-

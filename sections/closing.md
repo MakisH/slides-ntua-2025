@@ -1,4 +1,4 @@
-# preCICE is free because of
+## preCICE is free because of
 
 <img src="images/closing/funding.png" style="max-height:400px;"/>
 
@@ -6,7 +6,7 @@
 
 ---
 
-# Summary
+## Summary
 
 <div style="color:#0065BD; margin-top:10pt; margin-bottom:10pt; text-align:left">
   1. preCICE offers efficient algorithms for black-box coupling<br/>
@@ -15,7 +15,7 @@
 </div>
 
 <div>
-  <small>Gerasimos Chourdakis (US/TUM) + many more (see <a href="https://www.precice.org/about/">precice.org/about</a>) 
+  <small>Gerasimos Chourdakis (US/TUM) + many more (see <a href="https://www.precice.org/about/">precice.org/about</a>)
 
   <img src="images/closing/qr-code-slides.png" style="max-height:150px;"/></small>
   

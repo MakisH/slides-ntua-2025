@@ -10,7 +10,7 @@ vvv
 
 ## Defining community standards
 
-![](images/coupled_config_OF-CCX.svg) 
+![](images/coupled_config_OF-CCX.svg)
 
 <small>Overview of an FSI setup: How easy is it to replace CalculiX by FEniCS?</small>
 
