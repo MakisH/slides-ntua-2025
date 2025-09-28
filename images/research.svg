@@ -9,6 +9,9 @@
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="research.svg"
+   inkscape:export-filename="/home/gc/Desktop/research.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,20 +27,39 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:snap-bbox="true"
-     inkscape:zoom="0.33671875"
-     inkscape:cx="944.40835"
-     inkscape:cy="818.19025"
-     inkscape:window-width="1868"
-     inkscape:window-height="1016"
-     inkscape:window-x="52"
-     inkscape:window-y="27"
+     inkscape:zoom="0.6734375"
+     inkscape:cx="942.92343"
+     inkscape:cy="753.59629"
+     inkscape:window-width="2508"
+     inkscape:window-height="1376"
+     inkscape:window-x="1492"
+     inkscape:window-y="67"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-text-baseline="true" />
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-page="true" />
   <defs
      id="defs2">
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect26310"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect26306"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
     <inkscape:path-effect
        effect="powerclip"
        id="path-effect3524"
@@ -90,89 +112,123 @@
          class="powerclip"
          d="M 703.11664,305.87341 H 808.60126 V 416.12679 H 703.11664 Z m 48.28064,31.47684 v 47.29969 h 54.704 v -47.29969 z" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect26310">
+      <rect
+         style="display:block;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:5"
+         id="rect26312"
+         width="54.704002"
+         height="47.29969"
+         x="751.39728"
+         y="337.35025" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect26306">
+      <rect
+         style="display:block;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:5"
+         id="rect26317"
+         width="54.704002"
+         height="47.29969"
+         x="751.39728"
+         y="337.35025" />
+    </clipPath>
   </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="background"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect39804"
+       width="1920"
+       height="1080"
+       x="0"
+       y="0"
+       rx="26.032101"
+       ry="26.032101" />
+  </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#0a76bb;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect12648"
+       width="361.85641"
+       height="400"
+       x="59.099243"
+       y="585.33197"
+       rx="61.636517"
+       ry="61.636517" />
     <g
-       id="g147461"
-       transform="translate(168.07308,-1094.783)">
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#0a76bb;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect12648"
-         width="361.85641"
-         height="400"
-         x="-108.97388"
-         y="1123.3925"
-         rx="61.636517"
-         ry="61.636517" />
-      <g
-         id="g3779"
-         transform="matrix(1.2684686,0,0,1.2684686,-887.62324,788.47537)">
-        <path
-           style="fill:#0a76bb;fill-opacity:1;stroke:none;stroke-width:5"
-           id="rect3088"
-           width="95.484619"
-           height="100.25338"
-           x="708.11664"
-           y="310.87341"
-           clip-path="url(#clipPath3312)"
-           inkscape:path-effect="#path-effect3316"
-           sodipodi:type="rect"
-           transform="rotate(-20.662905,728.15232,456.71906)"
-           d="m 708.11664,310.87341 h 95.48462 v 100.25338 h -95.48462 z" />
-        <path
-           style="fill:#f36221;fill-opacity:1;stroke:none;stroke-width:5"
-           id="path3520"
-           width="95.484619"
-           height="100.25338"
-           x="708.11664"
-           y="310.87341"
-           clip-path="url(#clipath_lpe_path-effect3524)"
-           inkscape:path-effect="#path-effect3524"
-           sodipodi:type="rect"
-           transform="rotate(159.33709,766.76888,370.41824)"
-           d="m 708.11664,310.87341 h 95.48462 v 100.25338 h -95.48462 z" />
-        <circle
-           style="fill:#a1b119;fill-opacity:1;stroke:#ffffff;stroke-width:5"
-           id="path3593"
-           cx="840.02081"
-           cy="403.51154"
-           r="12.508293" />
-        <circle
-           style="fill:#a1b119;fill-opacity:1;stroke:#ffffff;stroke-width:5"
-           id="circle3773"
-           cx="840.02081"
-           cy="403.51154"
-           r="12.508293" />
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-size:53.3333px;line-height:1.25;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright'"
-         x="-51.899761"
-         y="1426.7546"
-         id="text17258"><tspan
-           sodipodi:role="line"
-           id="tspan17256"
-           x="-51.899761"
-           y="1426.7546"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.3333px;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright Bold'">ecosystem</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:42.6667px;line-height:1.25;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright'"
-         x="71.033493"
-         y="1600.115"
-         id="text35416"><tspan
-           sodipodi:role="line"
-           x="71.033493"
-           y="1600.115"
-           id="tspan35418"
-           style="font-size:42.6667px;text-align:center;text-anchor:middle">Gerasimos Chourdakis</tspan></text>
+       id="g3779"
+       transform="matrix(1.2684686,0,0,1.2684686,-719.55012,250.4149)">
+      <path
+         style="fill:#0a76bb;fill-opacity:1;stroke:none;stroke-width:5"
+         id="rect3088"
+         width="95.484619"
+         height="100.25338"
+         x="708.11664"
+         y="310.87341"
+         clip-path="url(#clipPath3312)"
+         inkscape:path-effect="#path-effect3316"
+         sodipodi:type="rect"
+         transform="rotate(-20.662905,728.15232,456.71906)"
+         d="m 708.11664,310.87341 h 95.48462 v 100.25338 h -95.48462 z" />
+      <path
+         style="fill:#f36221;fill-opacity:1;stroke:none;stroke-width:5"
+         id="path3520"
+         width="95.484619"
+         height="100.25338"
+         x="708.11664"
+         y="310.87341"
+         clip-path="url(#clipath_lpe_path-effect3524)"
+         inkscape:path-effect="#path-effect3524"
+         sodipodi:type="rect"
+         transform="rotate(159.33709,766.76888,370.41824)"
+         d="m 708.11664,310.87341 h 95.48462 v 100.25338 h -95.48462 z" />
+      <circle
+         style="fill:#a1b119;fill-opacity:1;stroke:#ffffff;stroke-width:5"
+         id="path3593"
+         cx="840.02081"
+         cy="403.51154"
+         r="12.508293" />
+      <circle
+         style="fill:#a1b119;fill-opacity:1;stroke:#ffffff;stroke-width:5"
+         id="circle3773"
+         cx="840.02081"
+         cy="403.51154"
+         r="12.508293" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:53.3333px;line-height:1.25;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright'"
+       x="116.17336"
+       y="888.69415"
+       id="text17258"><tspan
+         sodipodi:role="line"
+         id="tspan17256"
+         x="116.17336"
+         y="888.69415"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.3333px;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright Bold'">ecosystem</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:42.6667px;line-height:1.25;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright'"
+       x="239.10661"
+       y="1062.0546"
+       id="text35416"><tspan
+         sodipodi:role="line"
+         x="239.10661"
+         y="1062.0546"
+         id="tspan35418"
+         style="font-size:42.6667px;text-align:center;text-anchor:middle">Gerasimos Chourdakis</tspan></text>
     <g
        id="g147449"
-       transform="translate(81.899226,-1094.783)">
+       transform="translate(-411.62899,-1094.783)">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#0a76bb;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect61911"
@@ -268,7 +324,7 @@
     </g>
     <g
        id="g147431"
-       transform="translate(-120.50891,-1094.783)">
+       transform="translate(-599.30912,-1094.783)">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#0a76bb;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect61913"
@@ -376,7 +432,7 @@
     </g>
     <g
        id="g147414"
-       transform="translate(-1578.1148,-538.06047)">
+       transform="translate(-381.74942,-1094.783)">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#0a76bb;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect101363"
@@ -595,7 +651,7 @@
     </g>
     <g
        id="g147380"
-       transform="translate(-1003.1558,-1094.783)">
+       transform="translate(-1480.686,-1094.783)">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#0a76bb;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect106935"
@@ -1270,7 +1326,7 @@
     </g>
     <g
        id="g147290"
-       transform="translate(-2358.9095,-538.06047)">
+       transform="translate(-2120.1443,-538.06047)">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#0a76bb;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect136771"
@@ -1328,7 +1384,7 @@
     </g>
     <g
        id="g147281"
-       transform="translate(-2439.3374,-538.06047)">
+       transform="translate(-2200.5723,-538.06047)">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#0a76bb;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect145210"
@@ -1383,6 +1439,116 @@
            y="1600.115"
            id="tspan146466"
            style="font-size:42.6667px;text-align:center;text-anchor:middle">Jun Chen</tspan></text>
+    </g>
+    <g
+       id="g1235"
+       transform="translate(-3148.934,-538.06047)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#0a76bb;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect1221"
+         width="361.85641"
+         height="400"
+         x="3709.8281"
+         y="1123.3925"
+         rx="61.636517"
+         ry="61.636517" />
+      <text
+         xml:space="preserve"
+         style="font-size:53.3333px;line-height:1.25;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright'"
+         x="3890.7825"
+         y="1425.9497"
+         id="text1229"><tspan
+           sodipodi:role="line"
+           x="3890.7825"
+           y="1425.9497"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.3333px;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright Bold';text-align:center;text-anchor:middle"
+           id="tspan1227">configuration</tspan><tspan
+           sodipodi:role="line"
+           x="3890.7825"
+           y="1492.6163"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.3333px;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright Bold';text-align:center;text-anchor:middle"
+           id="tspan39238">automation</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:42.6667px;line-height:1.25;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright'"
+         x="3891.5793"
+         y="1600.115"
+         id="text1233"><tspan
+           sodipodi:role="line"
+           x="3891.5793"
+           y="1600.115"
+           id="tspan1231"
+           style="font-size:42.6667px;text-align:center;text-anchor:middle">Felix Neubauer</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:64px;line-height:1.25;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright'"
+         x="3830.7278"
+         y="1261.1118"
+         id="text4151"><tspan
+           sodipodi:role="line"
+           x="3830.7278"
+           y="1261.1118"
+           id="tspan4153" /></text>
+    </g>
+    <g
+       id="g39500"
+       transform="matrix(0.83490936,0,0,0.83490936,0.79773836,-420.73645)">
+      <g
+         id="g39372"
+         transform="translate(160,-20)"
+         style="fill:#f36221">
+        <circle
+           style="fill:#f36221;stroke-width:1.99999"
+           id="circle39368"
+           cx="797.55096"
+           cy="1302.7238"
+           r="33.002464" />
+        <rect
+           style="fill:#f36221;stroke-width:1.99999"
+           id="rect39370"
+           width="105.0489"
+           height="119.99059"
+           x="745.02649"
+           y="1341.3068"
+           rx="26.03212"
+           ry="26.03212" />
+      </g>
+      <g
+         aria-label="&lt;/&gt;"
+         id="text30426"
+         style="font-size:111.21px;line-height:1.25;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright';stroke:#ffffff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           d="m 864.26884,1354.0099 -34.69882,17.7567 35.07893,19.7115 v 11.8921 l -48.60007,-28.4541 v -6.4619 l 48.21996,-25.4675 z"
+           style="font-weight:bold;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Bold';fill:#a1b119;stroke:#ffffff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path39339" />
+        <path
+           d="m 873.82595,1408.2574 34.48162,-74.7192 9.72001,4.9957 -34.37301,74.3934 z"
+           style="font-weight:bold;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Bold';fill:#a1b119;stroke:#ffffff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path39341" />
+        <path
+           d="m 927.9105,1354.0099 v -11.0232 l 48.49147,25.4675 v 6.4619 l -48.60007,28.4541 v -11.8921 l 34.91603,-19.7115 z"
+           style="font-weight:bold;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Bold';fill:#a1b119;stroke:#ffffff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path39343" />
+      </g>
+      <g
+         id="g39366"
+         transform="translate(20,20)">
+        <circle
+           style="fill:#0a76bb;stroke-width:1.99999"
+           id="path26686"
+           cx="797.55096"
+           cy="1302.7238"
+           r="33.002464" />
+        <rect
+           style="fill:#0a76bb;stroke-width:1.99999"
+           id="rect26756"
+           width="105.0489"
+           height="119.99059"
+           x="745.02649"
+           y="1341.3068"
+           rx="26.03212"
+           ry="26.03212" />
+      </g>
     </g>
   </g>
 </svg>
