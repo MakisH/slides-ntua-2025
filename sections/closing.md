@@ -11,7 +11,7 @@
 <div style="color:#0065BD; margin-top:10pt; margin-bottom:10pt; text-align:left">
   1. preCICE offers efficient algorithms for black-box coupling<br/>
   2. New directions beyond FSI: looking for collaborations<br/>
-  3. Standardizing a communty-driven bazaar of components<br/>
+  3. Open source, open science, community<br/>
 </div>
 
 <div>

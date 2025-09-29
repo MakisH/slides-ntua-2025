@@ -1,10 +1,18 @@
-# Current research
+# Research and development
 
 vvv
 
 <!-- ## The preCICE team -->
 
 <img data-src="images/intro/precice-devs.png" style="border:none; box-shadow:none; max-height:700px;">
+
+vvv
+
+## Open-source development on GitHub
+
+![](images/github-org.png)
+
+<small>https://github.com/precice/</small>
 
 vvv
 
@@ -33,8 +41,6 @@ vvv
 
 ![Overview of research](images/research.svg)  
 
-<small>💡Time interpolation: See related talk by Niklas Kotarsky in MS205</small>
-
 vvv
 
 ## Further research and development
@@ -47,7 +53,6 @@ vvv
 
 vvv
 
-![](images/closing/precice2025-path.svg)
+![](images/precice-workshop-2025-group-photo.jpeg)
 
-<small>~50 participants - Training - Talks - Posters - User support sessions - World Café<br/>
-Abstract submission till May 31 - Registration till July 15 - See `precice.org`</small>
+<small>Next preCICE Workshop expected in spring 2027.</small>

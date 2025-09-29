@@ -3,10 +3,10 @@
 - Title: Black-box coupling of simulation codes using preCICE
 - Speaker: Gerasimos Chourdakis, University of Stuttgart
 - Authors: Gerasimos Chourdakis + [more](https://www.precice.org/about/)
-- Event: [SIAM CSE25](https://www.siam.org/conferences-events/siam-conferences/cse25/), Fort Worth, Texas, USA
-- Date: March 5, 2025
+- Event: Semnar at the [NTUA School of Chemical Engineering](https://www.chemeng.ntua.gr/), Athens, Greece
+- Date: September 29, 2025
 
-[Start the presentation](https://makish.github.io/slides-cse25/) - [Get the PDF](https://github.com/MakisH/slides-cse25/blob/master/slides-archive.pdf)
+[Start the presentation](https://makish.github.io/slides-ntua-2025/) - [Get the PDF](https://github.com/MakisH/slides-ntua-2025/blob/master/slides-archive.pdf)
 
 This is an overview talk. Are you looking for training? Consider joining the [preCICE Workshops](https://precice.org/precice-workshop.html) or [supporting preCICE](https://precice.org/community-support-precice).
 

@@ -1,4 +1,4 @@
-## Extra slide: Example of using the API
+## Example of using the API
 
 ```python [1|5-11|12-16|17|24-25,29-30|32-37|43]
 import precice, nutils
