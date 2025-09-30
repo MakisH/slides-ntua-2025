@@ -1,9 +1,9 @@
-# preCICE talk at the SIAM CSE25
+# preCICE talk at NTUA
 
 - Title: Black-box coupling of simulation codes using preCICE
 - Speaker: Gerasimos Chourdakis, University of Stuttgart
 - Authors: Gerasimos Chourdakis + [more](https://www.precice.org/about/)
-- Event: Semnar at the [NTUA School of Chemical Engineering](https://www.chemeng.ntua.gr/), Athens, Greece
+- Event: Seminar at the [NTUA School of Chemical Engineering](https://www.chemeng.ntua.gr/), Athens, Greece
 - Date: September 29, 2025
 
 [Start the presentation](https://makish.github.io/slides-ntua-2025/) - [Get the PDF](https://github.com/MakisH/slides-ntua-2025/blob/master/slides-archive.pdf)
@@ -30,3 +30,4 @@ See section "[Export to PDF](https://revealjs.com/pdf-export/)" in the reveal.js
 - License: [CreativeCommons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
 - Based on [reveal.js](https://github.com/hakimel/reveal.js). Template based on the "White" template by Hakim El Hattab.
 - The University of Stuttgart logo is part of the corporate identity of the University of Stuttgart.
+- Largely based on previous presentations I have given in various events.
